@@ -8,7 +8,7 @@ Region-specific climate conditions
 Land nutrition and fertility parameters
 Based on these inputs, the system provides crop and fertilizer advisory recommendations to farmers in their native language, using an IVR-based interface with offline capabilities, making it accessible even in low-connectivity rural areas.
 
-##🚀 Technical Interests & Skills
+## 🚀 Technical Interests & Skills
 I am actively looking to collaborate on projects involving:
 Go (Golang)
 AI/ML model training and deployment
@@ -18,7 +18,7 @@ Full-stack development
 Java, Python, and AIML
 I enjoy working on systems that combine AI models with real-world deployment, especially those that reduce human effort and simplify complex tasks.
 
-##🤖 Current Learning Focus
+## 🤖 Current Learning Focus
 I am continuously learning and experimenting with:
 Neural Networks and Deep Learning
 AI working methodologies
@@ -31,7 +31,7 @@ Hand gesture recognition
 ML model training pipelines
 Cloud-based deployment of AI services
 
-##🏆 Projects & Experience
+## 🏆 Projects & Experience
 I have worked on several projects including:
 FarmAura
 
@@ -40,7 +40,7 @@ Other academic and independent AI/ML projects
 Across these projects, I have contributed at every stage of development—from ideation and design to implementation and team coordination.
 Even when outcomes were not competitive wins, I consistently delivered innovative ideas, strong execution, and leadership, showcasing my interpersonal skills, decision-making ability, and technical expertise.
 
-##🤝 Collaboration
+## 🤝 Collaboration
 I am open to collaborating on:
 Open-source projects
 AI/ML research and development
