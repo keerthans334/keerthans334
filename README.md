@@ -63,7 +63,7 @@ If you’re working on something impactful and need a motivated developer with l
 ## 🏅 Certificates
 | **Smart India Hackathon 2025 Finalist** |
 |:---:|
-| <img src="FarmAura/assets/images/certificate" alt="Home" height="600"> |
+| <img src="FarmAura/assets/images/certificate.png" alt="Home" height="600"> |
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
